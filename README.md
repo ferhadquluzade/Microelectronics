@@ -6,7 +6,7 @@ Team         : 11
 Team Members : Z. Gurbanli, H. Aliyeva, F.Gulizada
 <br>
 Task         : Goertzel filter implementation 
-
+<hr>
 This repo homes details, files for the homework task in Microelectronics & HW/SW Co-Design. 
 
 The task specification content is below:
