@@ -1,18 +1,21 @@
 # Microelectronics & HW/SW Co-Design
 Professor    : Prof. Dr. Schulz
+<br>
 Team         : 11 
+<br>
 Team Members : Z. Gurbanli, H. Aliyeva, F.Gulizada
+<br>
 Task         : Goertzel filter implementation 
 
 This repo homes details, files for the homework task in Microelectronics & HW/SW Co-Design. 
 
 The task specification content is below:
 
-●	Number of samples - 135
-●	Input data - 12 bit
-●	Internal data - 20 bit
-●	Sample frequency - 4MHz
-●	Signal frequency to detect - 150 KHz
+*	Number of samples - 135
+*	Input data - 12 bit
+*	Internal data - 20 bit
+*	Sample frequency - 4MHz
+*	Signal frequency to detect - 150 KHz
 
 The code files have been written in VHDL & Matlab. Firstly, the goertzel filter is implemented in Matlab and then in VHDL along with testbench. The stimuli data and expected results have been generated in Matlab for the testbench process. 
 
